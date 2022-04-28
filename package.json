@@ -1,0 +1,22 @@
+{
+  "name": "uib-framework-variables-ranamuhammadirshad",
+  "version": "1.0.0",
+  "description": "Create a mockup website as seen in the [reference image folder](./images_reference).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-E02/uib-framework-variables-RanaMuhammadIrshad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-E02/uib-framework-variables-RanaMuhammadIrshad/issues"
+  },
+  "homepage": "https://github.com/FBW-E02/uib-framework-variables-RanaMuhammadIrshad#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
